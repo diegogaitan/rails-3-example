@@ -6,6 +6,7 @@ gem 'rails', '3.0.3'
 
 gem 'pg'
 gem 'haml', '3.0.25'
+gem 'heroku', '1.18.0'
 
 # Use unicorn as the web server
 # gem 'unicorn'
