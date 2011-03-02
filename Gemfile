@@ -1,11 +1,11 @@
 source 'http://rubygems.org'
 
 gem 'rails', '3.0.3'
-
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'pg'
+gem 'haml', '3.0.25'
 
 # Use unicorn as the web server
 # gem 'unicorn'
