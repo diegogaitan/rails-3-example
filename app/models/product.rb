@@ -4,6 +4,6 @@ class Product < ActiveRecord::Base
   end
 
   def q
-    1 + 1 + 1
+    1 + 1 + 1 + 11
   end
 end
